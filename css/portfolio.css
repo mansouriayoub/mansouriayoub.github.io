@@ -1,0 +1,8 @@
+img {
+  cursor: pointer;
+}
+
+#portfolio {
+  margin: 50px auto 50px 0; /* footer height + space */
+  padding: 20px; /* footer height + space */
+}

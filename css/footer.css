@@ -1,0 +1,30 @@
+.fa-heart {
+  color: crimson;
+}
+
+.fa {
+  font-size: x-large;
+  color: rgb(46, 45, 45);
+}
+
+.fa-linkedin-square:hover {
+  color: #13519c;
+}
+
+.fa-github:hover {
+  color: #080808;
+}
+
+.fa-twitter:hover {
+  color: #1da1f2;
+}
+
+#footer {
+  display: block;
+  height: 50px;
+  transition-duration: 0.3s;
+}
+
+#footer:hover {
+  height: 100px;
+}
